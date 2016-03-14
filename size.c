@@ -9,5 +9,7 @@ int main(int argc, char *argv[])
 	printf("long long %u\n", sizeof(long long));
 	printf("float %u\n", sizeof(float));
 	printf("double %u\n", sizeof(double));
+	printf("long double %u\n", sizeof(long double));
+
 	return 0;
 }
